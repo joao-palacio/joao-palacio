@@ -79,19 +79,6 @@ Building a Rust-based SDK for:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaolucasps&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucasps&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasps&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🎯 What I'm Working On
 - Building **Ingera Kairo**, an AML intelligence engine  
 - Developing a **biometric SDK in Rust**  

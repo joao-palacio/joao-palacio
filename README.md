@@ -1,28 +1,27 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f2937&height=200&section=header&text=João%20Lucas%20Palacio%20Soares&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1f2937&height=200&section=header&text=João%20Lucas%20Palacio%20Soares&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=CTO+at+Ingera;Senior+Fullstack+Engineer;AWS+Cloud+Architect;Biometrics+and+Identity+Specialist;Financial+Systems+Engineer;Building+secure+banking+platforms"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=CTO+at+Ingera;Senior+Fullstack+Engineer;Cloud+Architect+(AWS);Biometrics+and+Identity+Verification+Specialist;Financial+Systems+Architect;Building+secure+banking+platforms"/>
 </p>
 
 ---
 
-<!-- BADGES -->
 <p align="center">
 
 <a href="https://ingera.com.br">
 <img src="https://img.shields.io/badge/Website-ingera.com.br-000?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="https://www.linkedin.com/in/joaolucaspalaciosoares">
-<img src="https://img.shields.io/badge/LinkedIn-João%20Palacio-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
 <a href="mailto:joao.palacio@ingera.com.br">
 <img src="https://img.shields.io/badge/Email-joao.palacio@ingera.com.br-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joaolucaspalaciosoares">
+<img src="https://img.shields.io/badge/LinkedIn-João%20Palacio-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -31,58 +30,115 @@
 
 # About Me
 
-I am the **CTO at Ingera**, architecting secure digital onboarding systems used by banks and financial institutions.
+I am the **Chief Technology Officer at Ingera**, responsible for the architecture, development, and operation of secure digital onboarding platforms used by financial institutions.
 
-I specialize in:
+With more than **20 years of experience in software engineering**, I specialize in designing and building mission-critical systems that operate in highly regulated environments.
 
-- Secure financial platforms
-- Biometrics and identity verification
-- Cloud infrastructure (AWS)
-- Distributed systems
-- High-scale backend engineering
+My work focuses on:
 
----
+- Digital onboarding platforms (KYC / AML)
+- Biometric identity verification systems
+- Secure distributed backend architectures
+- Cloud-native infrastructure
+- Financial systems and integrations
 
-# Live Status
+I lead the full lifecycle of platform engineering, including:
 
-<p align="center">
-
-<img src="https://img.shields.io/github/last-commit/joaolucaspalacio/dashboard?style=for-the-badge"/>
-<img src="https://img.shields.io/github/commit-activity/m/joaolucaspalacio/dashboard?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/joaolucaspalacio/dashboard?style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/joaolucaspalacio?style=for-the-badge"/>
-
-</p>
+- System architecture design
+- Infrastructure and DevOps
+- Security and compliance
+- Performance optimization
+- Production operations
 
 ---
 
-# Cloud Infrastructure
+# Current Role
 
-<p align="center">
+**Chief Technology Officer — Ingera**
 
-<img src="https://img.shields.io/badge/AWS-Production-FF9900?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Running-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-Active-326CE5?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/PCI-Compliant-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Visa-Integrated-blue?style=for-the-badge"/>
+At Ingera, I architect and maintain enterprise platforms that provide:
 
-</p>
+- Digital onboarding for banks
+- Identity verification using biometrics
+- Fraud detection and prevention
+- Secure customer acquisition systems
+- Integration with financial institutions and government databases
 
----
+These platforms operate in production environments with strict requirements for:
 
-# Core Projects
-
-| Project | Description | Stack | Status |
-|--------|-------------|------|--------|
-| DAS Platform | Digital onboarding system for banks | Next.js, NestJS, AWS | Production |
-| AureID | Biometric identity verification | Python, OpenCV, ML | Production |
-| DevID | Device fingerprint engine | Node.js, Redis, Kafka | Production |
-| Score Engine | Credit scoring system | Node.js, MongoDB | Production |
-| AgroSat | Satellite credit analysis | Python, ML | Production |
+- Availability
+- Security
+- Scalability
+- Compliance
 
 ---
 
-# Tech Stack
+# Areas of Expertise
+
+## Cloud Architecture
+
+Extensive experience designing infrastructure using:
+
+- AWS EC2, ECS, EKS
+- Docker and containerized environments
+- Kubernetes orchestration
+- Infrastructure as Code
+- CI/CD pipelines
+- High availability and fault tolerance
+
+---
+
+## Backend Engineering
+
+Design and implementation of high-performance backend systems using:
+
+- Node.js
+- TypeScript
+- NestJS
+- Distributed architectures
+- Message queues and event-driven systems
+- High-throughput APIs
+
+---
+
+## Identity Verification and Biometrics
+
+Expertise in biometric systems including:
+
+- Facial recognition
+- Liveness detection
+- Document verification
+- OCR pipelines
+- Identity matching algorithms
+
+---
+
+## Financial Systems
+
+Experience building systems integrated with financial institutions, including:
+
+- Secure onboarding flows
+- Identity verification pipelines
+- Fraud detection systems
+- Compliance-driven architectures
+- Secure authentication systems
+
+---
+
+# Security and Compliance
+
+Experience building systems compliant with enterprise security standards:
+
+- PCI-DSS principles
+- Secure authentication flows
+- Encryption at rest and in transit
+- Secure key management
+- Infrastructure hardening
+- Threat mitigation
+
+---
+
+# Technology Stack
 
 <p align="center">
 
@@ -92,35 +148,17 @@ I specialize in:
 
 ---
 
-# GitHub Auto-Sync Projects
+# Professional Philosophy
 
-<p align="center">
+My engineering approach focuses on:
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaolucaspalacio&show_icons=true&theme=dark&hide_border=true"/>
+- Reliability
+- Security
+- Scalability
+- Maintainability
+- Operational excellence
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaspalacio&layout=compact&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph (Animated)
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucaspalacio&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Live Project Sync
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaolucaspalacio&theme=darkhub&no-frame=true&row=1"/>
-
-</p>
+I prioritize building systems that are robust, efficient, and capable of supporting real-world production environments.
 
 ---
 
@@ -132,7 +170,6 @@ I specialize in:
 
 ---
 
-<!-- FOOTER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:000000&height=120&section=footer"/>
 </p>

@@ -1,101 +1,158 @@
-# I'm **João Lucas Palacio Soares**
+<h1 align="center">Hi there, I'm João Lucas Palacio Soares 👋</h1>
 
-### **Senior Full-Stack Engineer | Cloud & DevOps | Fraud Prevention & Financial Systems | Biometrics & Compliance**
+<p align="center">
+  <b>CTO at Ingera • Senior Fullstack Engineer • AWS Architect • Biometrics Specialist</b>
+</p>
 
-With over **15 years of experience** building scalable, secure, and high-performance systems, I specialize in delivering enterprise-grade solutions for **financial institutions**, **onboarding**, **biometrics**, **KYC/KYB**, and **anti-fraud/AML platforms**.
-
-I'm the creator and tech lead at **Ingera**, where we build the **Digital Acquisition Solution (DAS)** — a modern platform used for biometric verification, document checks, watchlists, AML, and secure customer onboarding.
-
----
-
-## 🏷️ Skills & Technologies
-
-<!-- Languages -->
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-<!-- Backend & Infra -->
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-<!-- Tools -->
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+<p align="center">
+  <a href="https://ingera.com.br">
+    <img src="https://img.shields.io/badge/Website-ingera.com.br-black?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/joaolucaspalaciosoares">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Palacio-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:joao.palacio@ingera.com.br">
+    <img src="https://img.shields.io/badge/Email-joao.palacio@ingera.com.br-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 🚀 What I Build
+## About me
 
-### **🔹 Digital Acquisition Solution (Ingera)**
-A complete onboarding platform with:
-- Biometric Verification  
-- Document Verification  
-- Watchlist Check (Sanctions / PEP / Crime Databases)  
-- Email & Phone intelligence  
-- FaceMatch engine  
-- Custom workflows, custom watchlists  
-- E-Signature  
-- Financial dashboards with income range, credit scoring, and behavioral indicators  
+I'm the **CTO and Lead Architect at Ingera**, building secure digital onboarding platforms for banks and financial institutions.
 
-### **🔹 WordPress & Creative Tech Ecosystem**
+Over the past 20 years, I’ve worked across:
 
-Before focusing on the financial sector, I worked across **multiple marketing agencies**, developing:
+- Financial SaaS
+- Biometrics and identity verification
+- Cloud infrastructure at scale
+- Distributed backend systems
+- AI, OCR, and computer vision
 
-- Interactive **web games** for brand activations  
-- **Gamified ad experiences** and engagement microsites  
-- Tech integrations for large **advertising campaigns**  
-- Custom WordPress modules, themes, and dynamic content systems  
-- High-impact campaign tech similar to the  
-  *“Riot Games – Habib’s Magic Lamp”* activation featured by Exame  
-  (a blend of interactive storytelling + branded experience)
-
-Some of the modules and systems I delivered during this period include:
-- **CVC - Experimento**
-- **HBO - Game of Throne Card game**
-- **L'Oreal Paris - Elseve Apps**
-- **FAQ System with utility scoring**
-
-### **🔹 Biometric SDK (Rust)**
-Building a Rust-based SDK for:
-- High-performance face analysis  
-- Secure financial environments  
-- Multiplatform support  
+I specialize in designing secure, scalable, and production-grade systems used in real banking environments.
 
 ---
 
-## 🎯 What I'm Working On
-- Building **Ingera Kairo**, an AML intelligence engine  
-- Developing a **biometric SDK in Rust**  
-- Creating AML dashboards & credit behavior insights  
-- Optimizing large-scale database pipelines (MongoDB + Prisma)  
-- Deploying secure AWS infrastructures for financial institutions
-- Ingera Shield - Advanced fraud detection and prevention platform
-- Ingera Verify - KYC orchestration and identity verification system
-- Ingera Intelligence - Real-time analytics and risk monitoring platform
-- Agricultural Credit Score - Satellite-based monitoring for rural credit assessment
+## My work
+
+I build platforms focused on:
+
+- Digital onboarding (KYC, AML)
+- Biometric authentication
+- Fraud detection
+- Cloud-native infrastructure
+- High-scale APIs
+
+My systems are currently used by:
+
+- Banks
+- Financial institutions
+- Credit providers
+- Government integrations
 
 ---
 
-## 📬 Contact
+## Key Projects
 
-- ✉️ Email: **palaciosoares@gmail.com**  
-- 🌐 Company: **Ingera**  
-- 💼 Available for collaborations on: fintech, compliance, DevOps, cloud, biometrics  
+| Project | Description | Tech | Status |
+|--------|-------------|------|--------|
+| Digital Acquisition Solution | End-to-end onboarding platform for banks | Next.js, NestJS, AWS, Prisma | Production |
+| AureID | Biometric identity verification platform | Python, OpenCV, AWS, ML | Production |
+| DevID | Device fingerprinting and fraud detection | Node.js, Redis, Kafka | Production |
+| Score | Credit scoring engine | Node.js, MongoDB, ML | Production |
+| AgroSat Intelligence | Satellite-based credit risk analysis | Python, ML, Satellite APIs | Production |
+| Ingera Dashboard | Operational and monitoring dashboard | Next.js, Tailwind, Prisma | Production |
 
 ---
+
+## Projects Table (GitHub style)
+
+| Repository | Description | Language | Status |
+|------------|------------|----------|--------|
+| DAS API | Banking onboarding backend | TypeScript | Active |
+| Dashboard | Operational dashboard | TypeScript | Active |
+| Biometrics Engine | Face analysis pipeline | Python | Active |
+| DevOps Infrastructure | Terraform and Docker infrastructure | Terraform | Active |
+| OCR Engine | Document analysis system | Python | Active |
+
+---
+
+## Toolbox
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js">
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js">
+<img src="https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs">
+<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws">
+<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes">
+<img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma">
+<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis">
+<img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka">
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform">
+<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
+
+</p>
+
+---
+
+## Cloud & Infrastructure
+
+- AWS EC2, ECS, EKS
+- Docker & Kubernetes
+- Terraform
+- CI/CD pipelines
+- Nginx, Cloudflare
+- Secure production deployments
+
+---
+
+## Security & Compliance
+
+Experience building systems compliant with:
+
+- PCI-DSS
+- Visa requirements
+- Bank security standards
+- JWT private_key_jwt
+- mTLS authentication
+- Encryption at rest and transit
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaolucaspalacio&show_icons=true&theme=dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaspalacio&layout=compact&theme=dark"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucaspalacio&theme=github-dark"/>
+</p>
+
+---
+
+## Contact
+
+- Website: https://ingera.com.br  
+- Email: joao.palacio@ingera.com.br  
+- LinkedIn: https://www.linkedin.com/in/joaolucaspalaciosoares  
+
+---
+
+<p align="center">
+Built with precision and engineering excellence.
+</p>

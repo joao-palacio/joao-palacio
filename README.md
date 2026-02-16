@@ -1,151 +1,130 @@
-<h1 align="center">Hi there, I'm João Lucas Palacio Soares 👋</h1>
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <b>CTO at Ingera • Senior Fullstack Engineer • AWS Architect • Biometrics Specialist</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f2937&height=200&section=header&text=João%20Lucas%20Palacio%20Soares&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://ingera.com.br">
-    <img src="https://img.shields.io/badge/Website-ingera.com.br-black?style=for-the-badge&logo=google-chrome">
-  </a>
-  <a href="https://www.linkedin.com/in/joaolucaspalaciosoares">
-    <img src="https://img.shields.io/badge/LinkedIn-João%20Palacio-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:joao.palacio@ingera.com.br">
-    <img src="https://img.shields.io/badge/Email-joao.palacio@ingera.com.br-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=CTO+at+Ingera;Senior+Fullstack+Engineer;AWS+Cloud+Architect;Biometrics+and+Identity+Specialist;Financial+Systems+Engineer;Building+secure+banking+platforms"/>
 </p>
 
 ---
 
-## About me
+<!-- BADGES -->
+<p align="center">
 
-I'm the **CTO and Lead Architect at Ingera**, building secure digital onboarding platforms for banks and financial institutions.
+<a href="https://ingera.com.br">
+<img src="https://img.shields.io/badge/Website-ingera.com.br-000?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-Over the past 20 years, I’ve worked across:
+<a href="https://www.linkedin.com/in/joaolucaspalaciosoares">
+<img src="https://img.shields.io/badge/LinkedIn-João%20Palacio-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- Financial SaaS
+<a href="mailto:joao.palacio@ingera.com.br">
+<img src="https://img.shields.io/badge/Email-joao.palacio@ingera.com.br-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# About Me
+
+I am the **CTO at Ingera**, architecting secure digital onboarding systems used by banks and financial institutions.
+
+I specialize in:
+
+- Secure financial platforms
 - Biometrics and identity verification
-- Cloud infrastructure at scale
-- Distributed backend systems
-- AI, OCR, and computer vision
-
-I specialize in designing secure, scalable, and production-grade systems used in real banking environments.
+- Cloud infrastructure (AWS)
+- Distributed systems
+- High-scale backend engineering
 
 ---
 
-## My work
+# Live Status
 
-I build platforms focused on:
+<p align="center">
 
-- Digital onboarding (KYC, AML)
-- Biometric authentication
-- Fraud detection
-- Cloud-native infrastructure
-- High-scale APIs
+<img src="https://img.shields.io/github/last-commit/joaolucaspalacio/dashboard?style=for-the-badge"/>
+<img src="https://img.shields.io/github/commit-activity/m/joaolucaspalacio/dashboard?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/joaolucaspalacio/dashboard?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/joaolucaspalacio?style=for-the-badge"/>
 
-My systems are currently used by:
-
-- Banks
-- Financial institutions
-- Credit providers
-- Government integrations
+</p>
 
 ---
 
-## Key Projects
+# Cloud Infrastructure
 
-| Project | Description | Tech | Status |
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Production-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-Running-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-Active-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/PCI-Compliant-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visa-Integrated-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Core Projects
+
+| Project | Description | Stack | Status |
 |--------|-------------|------|--------|
-| Digital Acquisition Solution | End-to-end onboarding platform for banks | Next.js, NestJS, AWS, Prisma | Production |
-| AureID | Biometric identity verification platform | Python, OpenCV, AWS, ML | Production |
-| DevID | Device fingerprinting and fraud detection | Node.js, Redis, Kafka | Production |
-| Score | Credit scoring engine | Node.js, MongoDB, ML | Production |
-| AgroSat Intelligence | Satellite-based credit risk analysis | Python, ML, Satellite APIs | Production |
-| Ingera Dashboard | Operational and monitoring dashboard | Next.js, Tailwind, Prisma | Production |
+| DAS Platform | Digital onboarding system for banks | Next.js, NestJS, AWS | Production |
+| AureID | Biometric identity verification | Python, OpenCV, ML | Production |
+| DevID | Device fingerprint engine | Node.js, Redis, Kafka | Production |
+| Score Engine | Credit scoring system | Node.js, MongoDB | Production |
+| AgroSat | Satellite credit analysis | Python, ML | Production |
 
 ---
 
-## Projects Table (GitHub style)
-
-| Repository | Description | Language | Status |
-|------------|------------|----------|--------|
-| DAS API | Banking onboarding backend | TypeScript | Active |
-| Dashboard | Operational dashboard | TypeScript | Active |
-| Biometrics Engine | Face analysis pipeline | Python | Active |
-| DevOps Infrastructure | Terraform and Docker infrastructure | Terraform | Active |
-| OCR Engine | Document analysis system | Python | Active |
-
----
-
-## Toolbox
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js">
-<img src="https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs">
-<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript">
-<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws">
-<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker">
-<img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes">
-<img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma">
-<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb">
-<img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis">
-<img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka">
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
-<img src="https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform">
-<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
-
-</p>
-
----
-
-## Cloud & Infrastructure
-
-- AWS EC2, ECS, EKS
-- Docker & Kubernetes
-- Terraform
-- CI/CD pipelines
-- Nginx, Cloudflare
-- Secure production deployments
-
----
-
-## Security & Compliance
-
-Experience building systems compliant with:
-
-- PCI-DSS
-- Visa requirements
-- Bank security standards
-- JWT private_key_jwt
-- mTLS authentication
-- Encryption at rest and transit
-
----
-
-## GitHub Stats
+# Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaolucaspalacio&show_icons=true&theme=dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaspalacio&layout=compact&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,nestjs,aws,docker,kubernetes,redis,mongodb,python,terraform,linux&perline=6"/>
 
 </p>
 
 ---
 
-## Contribution Activity
+# GitHub Auto-Sync Projects
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucaspalacio&theme=github-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaolucaspalacio&show_icons=true&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaspalacio&layout=compact&theme=dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contact
+# Contribution Graph (Animated)
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucaspalacio&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Live Project Sync
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaolucaspalacio&theme=darkhub&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# Contact
 
 - Website: https://ingera.com.br  
 - Email: joao.palacio@ingera.com.br  
@@ -153,6 +132,7 @@ Experience building systems compliant with:
 
 ---
 
+<!-- FOOTER ANIMATION -->
 <p align="center">
-Built with precision and engineering excellence.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:000000&height=120&section=footer"/>
 </p>
